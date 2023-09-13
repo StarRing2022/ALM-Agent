@@ -1,0 +1,2 @@
+# AgentsChainer-ALM
+由RWKV\Fay\Wenda等多方联合打造的一体型高度拟人心智化的智能体工程，拥有与生物智能相似的脑神经结构与学习认知规律，同时是一款可用于研究各种人体或类人体行为及心理的模拟器，当前版本为ALM版，即Automatic learning machine
